@@ -1,0 +1,22 @@
+MEGA KIT DE ACTIVIDADES BÍBLICAS PARA NIÑOS
+
+CONTENIDO
+- index.html: página principal para subir a un hosting.
+- independiente.html: versión autónoma con imágenes integradas.
+- assets/: imágenes WebP optimizadas utilizadas por index.html.
+
+USO LOCAL
+Abre independiente.html con doble clic. También puedes abrir index.html siempre que mantengas la carpeta assets junto al archivo.
+
+SUBIDA A HOSTING
+Sube index.html, independiente.html, LEEME.txt y la carpeta assets directamente al directorio público de tu hosting. No cambies ni muevas la carpeta assets.
+
+ENLACE DE PAGO CONFIGURADO
+https://pay.hotmart.com/S106674372U?checkoutMode=10
+
+Todos los botones de compra abren este enlace de Hotmart en una pestaña nueva.
+
+PRECIOS CONFIGURADOS
+- Precio regular: USD $70.00
+- Precio actual: USD $14.29
+- Ahorro aproximado: 80% (USD $55.71)
