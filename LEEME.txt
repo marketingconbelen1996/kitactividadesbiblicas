@@ -15,3 +15,8 @@ ENLACE DE PAGO CONFIGURADO
 https://pay.hotmart.com/S106674372U?checkoutMode=10
 
 Todos los botones de compra abren este enlace de Hotmart en una pestaña nueva.
+
+PRECIOS CONFIGURADOS
+- Precio regular: USD $70.00
+- Precio actual: USD $14.29
+- Ahorro aproximado: 80% (USD $55.71)
